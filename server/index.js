@@ -132,5 +132,10 @@ if (fs.existsSync(dist)) {
   app.get('*', (req, res) => res.sendFile(path.join(dist, 'index.html')));
 }
 
-if (require.main === module) app.listen(PORT, () => console.log(`API on http://localhost:${PORT}`));
+const HOST = '0.0.0.0';
+if (require.main === module) {
+  app.listen(PORT, HOST, () => {
+    console.log(`CardShare API running on http://${HOST}:${PORT}`);
+  });
+}
 module.exports = app;
