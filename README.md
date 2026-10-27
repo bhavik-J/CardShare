@@ -50,3 +50,6 @@ Deploy to Render, Railway or Fly.io with a persistent disk for `data.db` (or mov
 
 No rate limiting, email verification or password reset yet. Add `express-rate-limit`, email verification, and HTTPS.
 There is no payment or escrow: friends settle up directly, so keep it to people you trust.
+
+## Project demo video's link 
+https://drive.google.com/drive/u/1/folders/1iOdoPD3LP25tJnw-39VfHgOXf9CkSKzz
