@@ -52,4 +52,4 @@ No rate limiting, email verification or password reset yet. Add `express-rate-li
 There is no payment or escrow: friends settle up directly, so keep it to people you trust.
 
 ## Project demo video's link 
-https://drive.google.com/drive/u/1/folders/1iOdoPD3LP25tJnw-39VfHgOXf9CkSKzz
+https://drive.google.com/file/d/1Ij8Z0Xp1A_SKVbUYuAuGbLnPNO46oEwt/view?usp=sharing
